@@ -3,3 +3,4 @@ keras
 tensorflow
 sklearn
 numpy
+gitpython>=3.1.33 # not directly required, pinned by Snyk to avoid a vulnerability
