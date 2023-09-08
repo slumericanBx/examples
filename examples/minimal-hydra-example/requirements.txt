@@ -1,3 +1,4 @@
 tensorflow
 hydra-core
 wandb
+gitpython>=3.1.35 # not directly required, pinned by Snyk to avoid a vulnerability
