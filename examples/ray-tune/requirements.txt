@@ -1,3 +1,4 @@
-torch>=1.4.0
+torch>=2.10.0
 ray[tune]>=0.8.7
 wandb>=0.9.7
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
